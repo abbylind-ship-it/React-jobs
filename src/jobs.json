@@ -83,6 +83,1322 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "7",
+      "title": "React & GraphQL Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React & GraphQL Engineer to join our engineering team in Raleigh, NC. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Raleigh, NC",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-328-3286"
+      }
+    },
+    {
+      "id": "8",
+      "title": "React & GraphQL Engineer",
+      "type": "Part-Time",
+      "description": "We are seeking a talented React & GraphQL Engineer to join our engineering team in San Francisco, CA. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "San Francisco, CA",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Silverline Digital",
+        "description": "Silverline Digital creates responsive web and mobile applications for the healthcare and education sectors.",
+        "contactEmail": "careers@silverlinedigital.org",
+        "contactPhone": "555-532-1520"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Front-End Engineer (React & TypeScript)",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in San Francisco, CA as a Front-End Engineer (React & TypeScript) and help shape the future of our flagship SaaS platform.",
+      "location": "San Francisco, CA",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital builds scalable cloud-native web applications for enterprise clients worldwide.",
+        "contactEmail": "careers@apexdigital.io",
+        "contactPhone": "555-674-4257"
+      }
+    },
+    {
+      "id": "10",
+      "title": "UI/UX React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a UI/UX React Developer based in Atlanta, GA. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Atlanta, GA",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Horizon Interactive",
+        "description": "Horizon Interactive is a boutique product studio crafting intuitive digital experiences.",
+        "contactEmail": "hello@horizoninteractive.co",
+        "contactPhone": "555-814-7924"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Full Stack React & Node.js Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Full Stack React & Node.js Developer to join our engineering team in Nashville, TN. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Nashville, TN",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-194-7224"
+      }
+    },
+    {
+      "id": "12",
+      "title": "React Native Mobile Developer",
+      "type": "Remote",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Remote as a React Native Mobile Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Remote",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Cascade Software",
+        "description": "Cascade Software delivers custom e-commerce and fintech platforms with a focus on performance and accessibility.",
+        "contactEmail": "hr@cascadesoftware.com",
+        "contactPhone": "555-926-1711"
+      }
+    },
+    {
+      "id": "13",
+      "title": "React & Next.js Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a React & Next.js Developer based in San Diego, CA. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "San Diego, CA",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-665-5803"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Front-End Web Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Web Developer to join our engineering team in Miami, FL. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Miami, FL",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-891-5741"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Full Stack JavaScript Developer in Miami, FL. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Miami, FL",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Cascade Software",
+        "description": "Cascade Software delivers custom e-commerce and fintech platforms with a focus on performance and accessibility.",
+        "contactEmail": "hr@cascadesoftware.com",
+        "contactPhone": "555-564-6977"
+      }
+    },
+    {
+      "id": "16",
+      "title": "React Native Mobile Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a React Native Mobile Developer in Chicago, IL. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Chicago, IL",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-723-3803"
+      }
+    },
+    {
+      "id": "17",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React.js Developer to join our engineering team in Atlanta, GA. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Atlanta, GA",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-801-6313"
+      }
+    },
+    {
+      "id": "18",
+      "title": "UI/UX React Developer",
+      "type": "Remote",
+      "description": "Join our team as a UI/UX React Developer in Remote. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Remote",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Pulse Tech Solutions",
+        "description": "Pulse Tech Solutions is dedicated to modernizing legacy systems through clean, modular React front-ends.",
+        "contactEmail": "contact@pulsetech.dev",
+        "contactPhone": "555-374-2084"
+      }
+    },
+    {
+      "id": "19",
+      "title": "React Performance Engineer",
+      "type": "Remote",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Remote as a React Performance Engineer and help shape the future of our flagship SaaS platform.",
+      "location": "Remote",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-771-9179"
+      }
+    },
+    {
+      "id": "20",
+      "title": "React Performance Engineer",
+      "type": "Remote",
+      "description": "Join our team as a React Performance Engineer in Remote. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Remote",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Horizon Interactive",
+        "description": "Horizon Interactive is a boutique product studio crafting intuitive digital experiences.",
+        "contactEmail": "hello@horizoninteractive.co",
+        "contactPhone": "555-371-3287"
+      }
+    },
+    {
+      "id": "21",
+      "title": "Senior UI Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Senior UI Engineer based in Atlanta, GA. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Atlanta, GA",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Pulse Tech Solutions",
+        "description": "Pulse Tech Solutions is dedicated to modernizing legacy systems through clean, modular React front-ends.",
+        "contactEmail": "contact@pulsetech.dev",
+        "contactPhone": "555-697-7543"
+      }
+    },
+    {
+      "id": "22",
+      "title": "UI/UX React Developer",
+      "type": "Internship",
+      "description": "We are seeking a talented UI/UX React Developer to join our engineering team in Brooklyn, NY. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Brooklyn, NY",
+      "salary": "Under $50K",
+      "company": {
+        "name": "BluePeak Innovations",
+        "description": "BluePeak Innovations is an agile software consultancy passionate about open-source technologies.",
+        "contactEmail": "team@bluepeakinnovations.com",
+        "contactPhone": "555-605-2489"
+      }
+    },
+    {
+      "id": "23",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Chicago, IL as a Full Stack JavaScript Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Chicago, IL",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Pulse Tech Solutions",
+        "description": "Pulse Tech Solutions is dedicated to modernizing legacy systems through clean, modular React front-ends.",
+        "contactEmail": "contact@pulsetech.dev",
+        "contactPhone": "555-710-2040"
+      }
+    },
+    {
+      "id": "24",
+      "title": "Junior Front-End Developer (React)",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Junior Front-End Developer (React) to join our engineering team in Seattle, WA. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Seattle, WA",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Cascade Software",
+        "description": "Cascade Software delivers custom e-commerce and fintech platforms with a focus on performance and accessibility.",
+        "contactEmail": "hr@cascadesoftware.com",
+        "contactPhone": "555-666-1188"
+      }
+    },
+    {
+      "id": "25",
+      "title": "React & GraphQL Engineer",
+      "type": "Remote",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Remote as a React & GraphQL Engineer and help shape the future of our flagship SaaS platform.",
+      "location": "Remote",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Pinnacle Web Group",
+        "description": "Pinnacle Web Group partners with startups and Fortune 500 companies to launch high-impact web products.",
+        "contactEmail": "recruiting@pinnacleweb.com",
+        "contactPhone": "555-214-5808"
+      }
+    },
+    {
+      "id": "26",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React.js Developer to join our engineering team in Raleigh, NC. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Raleigh, NC",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "BluePeak Innovations",
+        "description": "BluePeak Innovations is an agile software consultancy passionate about open-source technologies.",
+        "contactEmail": "team@bluepeakinnovations.com",
+        "contactPhone": "555-880-3927"
+      }
+    },
+    {
+      "id": "27",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full Stack JavaScript Developer based in Salt Lake City, UT. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Salt Lake City, UT",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Silverline Digital",
+        "description": "Silverline Digital creates responsive web and mobile applications for the healthcare and education sectors.",
+        "contactEmail": "careers@silverlinedigital.org",
+        "contactPhone": "555-303-3504"
+      }
+    },
+    {
+      "id": "28",
+      "title": "React Software Engineer",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Nashville, TN as a React Software Engineer and help shape the future of our flagship SaaS platform.",
+      "location": "Nashville, TN",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital builds scalable cloud-native web applications for enterprise clients worldwide.",
+        "contactEmail": "careers@apexdigital.io",
+        "contactPhone": "555-713-6310"
+      }
+    },
+    {
+      "id": "29",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Senior React Developer to join our engineering team in Portland, OR. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Portland, OR",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-159-4946"
+      }
+    },
+    {
+      "id": "30",
+      "title": "Front-End Engineer (React & TypeScript)",
+      "type": "Part-Time",
+      "description": "Join our team as a Front-End Engineer (React & TypeScript) in Salt Lake City, UT. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Salt Lake City, UT",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "BluePeak Innovations",
+        "description": "BluePeak Innovations is an agile software consultancy passionate about open-source technologies.",
+        "contactEmail": "team@bluepeakinnovations.com",
+        "contactPhone": "555-884-3060"
+      }
+    },
+    {
+      "id": "31",
+      "title": "React & GraphQL Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a React & GraphQL Engineer in San Francisco, CA. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "San Francisco, CA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Cascade Software",
+        "description": "Cascade Software delivers custom e-commerce and fintech platforms with a focus on performance and accessibility.",
+        "contactEmail": "hr@cascadesoftware.com",
+        "contactPhone": "555-640-7932"
+      }
+    },
+    {
+      "id": "32",
+      "title": "React Performance Engineer",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Raleigh, NC as a React Performance Engineer and help shape the future of our flagship SaaS platform.",
+      "location": "Raleigh, NC",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Cascade Software",
+        "description": "Cascade Software delivers custom e-commerce and fintech platforms with a focus on performance and accessibility.",
+        "contactEmail": "hr@cascadesoftware.com",
+        "contactPhone": "555-508-7118"
+      }
+    },
+    {
+      "id": "33",
+      "title": "React Performance Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React Performance Engineer to join our engineering team in Miami, FL. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Miami, FL",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-165-6539"
+      }
+    },
+    {
+      "id": "34",
+      "title": "Front-End Web Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Web Developer in Denver, CO. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Denver, CO",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital builds scalable cloud-native web applications for enterprise clients worldwide.",
+        "contactEmail": "careers@apexdigital.io",
+        "contactPhone": "555-172-1964"
+      }
+    },
+    {
+      "id": "35",
+      "title": "Front-End Engineer (React & TypeScript)",
+      "type": "Remote",
+      "description": "Exciting opportunity for a Front-End Engineer (React & TypeScript) based in Remote. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Remote",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-626-4899"
+      }
+    },
+    {
+      "id": "36",
+      "title": "React & GraphQL Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a React & GraphQL Engineer in San Francisco, CA. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "San Francisco, CA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Silverline Digital",
+        "description": "Silverline Digital creates responsive web and mobile applications for the healthcare and education sectors.",
+        "contactEmail": "careers@silverlinedigital.org",
+        "contactPhone": "555-690-8744"
+      }
+    },
+    {
+      "id": "37",
+      "title": "React Software Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a React Software Engineer based in Austin, TX. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Austin, TX",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-199-8062"
+      }
+    },
+    {
+      "id": "38",
+      "title": "Junior Front-End Developer (React)",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Junior Front-End Developer (React) based in Salt Lake City, UT. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Salt Lake City, UT",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-162-7596"
+      }
+    },
+    {
+      "id": "39",
+      "title": "React Software Engineer",
+      "type": "Remote",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Remote as a React Software Engineer and help shape the future of our flagship SaaS platform.",
+      "location": "Remote",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-294-9786"
+      }
+    },
+    {
+      "id": "40",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Atlanta, GA as a React.js Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Atlanta, GA",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-995-2235"
+      }
+    },
+    {
+      "id": "41",
+      "title": "React Software Engineer",
+      "type": "Remote",
+      "description": "We are seeking a talented React Software Engineer to join our engineering team in Remote. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Remote",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-151-9856"
+      }
+    },
+    {
+      "id": "42",
+      "title": "Front-End Engineer (React & TypeScript)",
+      "type": "Remote",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Remote as a Front-End Engineer (React & TypeScript) and help shape the future of our flagship SaaS platform.",
+      "location": "Remote",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Horizon Interactive",
+        "description": "Horizon Interactive is a boutique product studio crafting intuitive digital experiences.",
+        "contactEmail": "hello@horizoninteractive.co",
+        "contactPhone": "555-516-8956"
+      }
+    },
+    {
+      "id": "43",
+      "title": "UI/UX React Developer",
+      "type": "Remote",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Remote as a UI/UX React Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Remote",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Horizon Interactive",
+        "description": "Horizon Interactive is a boutique product studio crafting intuitive digital experiences.",
+        "contactEmail": "hello@horizoninteractive.co",
+        "contactPhone": "555-488-1035"
+      }
+    },
+    {
+      "id": "44",
+      "title": "Full Stack React & Node.js Developer",
+      "type": "Remote",
+      "description": "Join our team as a Full Stack React & Node.js Developer in Remote. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Remote",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Cascade Software",
+        "description": "Cascade Software delivers custom e-commerce and fintech platforms with a focus on performance and accessibility.",
+        "contactEmail": "hr@cascadesoftware.com",
+        "contactPhone": "555-533-8973"
+      }
+    },
+    {
+      "id": "45",
+      "title": "UI/UX React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented UI/UX React Developer to join our engineering team in Boston, MA. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Boston, MA",
+      "salary": "Over $200K",
+      "company": {
+        "name": "BluePeak Innovations",
+        "description": "BluePeak Innovations is an agile software consultancy passionate about open-source technologies.",
+        "contactEmail": "team@bluepeakinnovations.com",
+        "contactPhone": "555-162-6138"
+      }
+    },
+    {
+      "id": "46",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Senior React Developer to join our engineering team in San Francisco, CA. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "San Francisco, CA",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Horizon Interactive",
+        "description": "Horizon Interactive is a boutique product studio crafting intuitive digital experiences.",
+        "contactEmail": "hello@horizoninteractive.co",
+        "contactPhone": "555-158-9320"
+      }
+    },
+    {
+      "id": "47",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Full Stack JavaScript Developer in Denver, CO. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Denver, CO",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-513-2964"
+      }
+    },
+    {
+      "id": "48",
+      "title": "Front-End Web Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Front-End Web Developer based in Denver, CO. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Denver, CO",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Pulse Tech Solutions",
+        "description": "Pulse Tech Solutions is dedicated to modernizing legacy systems through clean, modular React front-ends.",
+        "contactEmail": "contact@pulsetech.dev",
+        "contactPhone": "555-773-9565"
+      }
+    },
+    {
+      "id": "49",
+      "title": "React Performance Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a React Performance Engineer in Chicago, IL. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Chicago, IL",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-371-7484"
+      }
+    },
+    {
+      "id": "50",
+      "title": "React & GraphQL Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React & GraphQL Engineer to join our engineering team in Seattle, WA. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Seattle, WA",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-109-8508"
+      }
+    },
+    {
+      "id": "51",
+      "title": "Front-End Engineer (React & TypeScript)",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Engineer (React & TypeScript) in San Francisco, CA. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "San Francisco, CA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Horizon Interactive",
+        "description": "Horizon Interactive is a boutique product studio crafting intuitive digital experiences.",
+        "contactEmail": "hello@horizoninteractive.co",
+        "contactPhone": "555-457-2127"
+      }
+    },
+    {
+      "id": "52",
+      "title": "React Native Mobile Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React Native Mobile Developer to join our engineering team in Seattle, WA. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Seattle, WA",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Cascade Software",
+        "description": "Cascade Software delivers custom e-commerce and fintech platforms with a focus on performance and accessibility.",
+        "contactEmail": "hr@cascadesoftware.com",
+        "contactPhone": "555-726-9666"
+      }
+    },
+    {
+      "id": "53",
+      "title": "React & GraphQL Engineer",
+      "type": "Remote",
+      "description": "Exciting opportunity for a React & GraphQL Engineer based in Remote. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Remote",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-999-3200"
+      }
+    },
+    {
+      "id": "54",
+      "title": "Front-End Engineer (React & TypeScript)",
+      "type": "Remote",
+      "description": "Join our team as a Front-End Engineer (React & TypeScript) in Remote. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Remote",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Horizon Interactive",
+        "description": "Horizon Interactive is a boutique product studio crafting intuitive digital experiences.",
+        "contactEmail": "hello@horizoninteractive.co",
+        "contactPhone": "555-378-5616"
+      }
+    },
+    {
+      "id": "55",
+      "title": "Senior UI Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Senior UI Engineer to join our engineering team in Chicago, IL. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Chicago, IL",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "BluePeak Innovations",
+        "description": "BluePeak Innovations is an agile software consultancy passionate about open-source technologies.",
+        "contactEmail": "team@bluepeakinnovations.com",
+        "contactPhone": "555-600-5114"
+      }
+    },
+    {
+      "id": "56",
+      "title": "Front-End Engineer (React & TypeScript)",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Engineer (React & TypeScript) in Salt Lake City, UT. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Salt Lake City, UT",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital builds scalable cloud-native web applications for enterprise clients worldwide.",
+        "contactEmail": "careers@apexdigital.io",
+        "contactPhone": "555-103-6464"
+      }
+    },
+    {
+      "id": "57",
+      "title": "React & GraphQL Engineer",
+      "type": "Internship",
+      "description": "We are seeking a talented React & GraphQL Engineer to join our engineering team in Brooklyn, NY. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Brooklyn, NY",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Stratos Cloud",
+        "description": "Stratos Cloud provides distributed infrastructure management tools with sleek user interfaces.",
+        "contactEmail": "jobs@stratoscloud.net",
+        "contactPhone": "555-664-8007"
+      }
+    },
+    {
+      "id": "58",
+      "title": "Front-End Engineer (React & TypeScript)",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Engineer (React & TypeScript) in San Diego, CA. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "San Diego, CA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "BluePeak Innovations",
+        "description": "BluePeak Innovations is an agile software consultancy passionate about open-source technologies.",
+        "contactEmail": "team@bluepeakinnovations.com",
+        "contactPhone": "555-136-7049"
+      }
+    },
+    {
+      "id": "59",
+      "title": "Junior Front-End Developer (React)",
+      "type": "Full-Time",
+      "description": "Join our team as a Junior Front-End Developer (React) in Atlanta, GA. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Atlanta, GA",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital builds scalable cloud-native web applications for enterprise clients worldwide.",
+        "contactEmail": "careers@apexdigital.io",
+        "contactPhone": "555-466-4441"
+      }
+    },
+    {
+      "id": "60",
+      "title": "React & GraphQL Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a React & GraphQL Engineer in Nashville, TN. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Nashville, TN",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Pulse Tech Solutions",
+        "description": "Pulse Tech Solutions is dedicated to modernizing legacy systems through clean, modular React front-ends.",
+        "contactEmail": "contact@pulsetech.dev",
+        "contactPhone": "555-735-3532"
+      }
+    },
+    {
+      "id": "61",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full Stack JavaScript Developer based in Nashville, TN. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Nashville, TN",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Pulse Tech Solutions",
+        "description": "Pulse Tech Solutions is dedicated to modernizing legacy systems through clean, modular React front-ends.",
+        "contactEmail": "contact@pulsetech.dev",
+        "contactPhone": "555-125-3938"
+      }
+    },
+    {
+      "id": "62",
+      "title": "React Software Engineer",
+      "type": "Remote",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Remote as a React Software Engineer and help shape the future of our flagship SaaS platform.",
+      "location": "Remote",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Cascade Software",
+        "description": "Cascade Software delivers custom e-commerce and fintech platforms with a focus on performance and accessibility.",
+        "contactEmail": "hr@cascadesoftware.com",
+        "contactPhone": "555-263-2771"
+      }
+    },
+    {
+      "id": "63",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full Stack JavaScript Developer based in Seattle, WA. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Seattle, WA",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-936-8541"
+      }
+    },
+    {
+      "id": "64",
+      "title": "Full Stack React & Node.js Developer",
+      "type": "Remote",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Remote as a Full Stack React & Node.js Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Remote",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-124-4164"
+      }
+    },
+    {
+      "id": "65",
+      "title": "React Native Mobile Developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Miami, FL as a React Native Mobile Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Miami, FL",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Pinnacle Web Group",
+        "description": "Pinnacle Web Group partners with startups and Fortune 500 companies to launch high-impact web products.",
+        "contactEmail": "recruiting@pinnacleweb.com",
+        "contactPhone": "555-756-9346"
+      }
+    },
+    {
+      "id": "66",
+      "title": "React & GraphQL Engineer",
+      "type": "Internship",
+      "description": "Exciting opportunity for a React & GraphQL Engineer based in San Francisco, CA. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "San Francisco, CA",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Pinnacle Web Group",
+        "description": "Pinnacle Web Group partners with startups and Fortune 500 companies to launch high-impact web products.",
+        "contactEmail": "recruiting@pinnacleweb.com",
+        "contactPhone": "555-128-2889"
+      }
+    },
+    {
+      "id": "67",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a React.js Developer based in Atlanta, GA. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Atlanta, GA",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-710-8119"
+      }
+    },
+    {
+      "id": "68",
+      "title": "Senior UI Engineer",
+      "type": "Part-Time",
+      "description": "Join our team as a Senior UI Engineer in Austin, TX. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Austin, TX",
+      "salary": "Over $200K",
+      "company": {
+        "name": "BluePeak Innovations",
+        "description": "BluePeak Innovations is an agile software consultancy passionate about open-source technologies.",
+        "contactEmail": "team@bluepeakinnovations.com",
+        "contactPhone": "555-218-7311"
+      }
+    },
+    {
+      "id": "69",
+      "title": "Full Stack React & Node.js Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Full Stack React & Node.js Developer in Austin, TX. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Austin, TX",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "BluePeak Innovations",
+        "description": "BluePeak Innovations is an agile software consultancy passionate about open-source technologies.",
+        "contactEmail": "team@bluepeakinnovations.com",
+        "contactPhone": "555-925-9821"
+      }
+    },
+    {
+      "id": "70",
+      "title": "React Native Mobile Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a React Native Mobile Developer based in Chicago, IL. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Chicago, IL",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Silverline Digital",
+        "description": "Silverline Digital creates responsive web and mobile applications for the healthcare and education sectors.",
+        "contactEmail": "careers@silverlinedigital.org",
+        "contactPhone": "555-421-3041"
+      }
+    },
+    {
+      "id": "71",
+      "title": "React & Next.js Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a React & Next.js Developer in Austin, TX. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Austin, TX",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Pulse Tech Solutions",
+        "description": "Pulse Tech Solutions is dedicated to modernizing legacy systems through clean, modular React front-ends.",
+        "contactEmail": "contact@pulsetech.dev",
+        "contactPhone": "555-813-5844"
+      }
+    },
+    {
+      "id": "72",
+      "title": "UI/UX React Developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Austin, TX as a UI/UX React Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Austin, TX",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Silverline Digital",
+        "description": "Silverline Digital creates responsive web and mobile applications for the healthcare and education sectors.",
+        "contactEmail": "careers@silverlinedigital.org",
+        "contactPhone": "555-682-5930"
+      }
+    },
+    {
+      "id": "73",
+      "title": "React & Next.js Developer",
+      "type": "Remote",
+      "description": "Exciting opportunity for a React & Next.js Developer based in Remote. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Remote",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Cascade Software",
+        "description": "Cascade Software delivers custom e-commerce and fintech platforms with a focus on performance and accessibility.",
+        "contactEmail": "hr@cascadesoftware.com",
+        "contactPhone": "555-315-8043"
+      }
+    },
+    {
+      "id": "74",
+      "title": "Lead React Architect",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Lead React Architect to join our engineering team in Chicago, IL. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Chicago, IL",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "BluePeak Innovations",
+        "description": "BluePeak Innovations is an agile software consultancy passionate about open-source technologies.",
+        "contactEmail": "team@bluepeakinnovations.com",
+        "contactPhone": "555-584-3780"
+      }
+    },
+    {
+      "id": "75",
+      "title": "Full Stack React & Node.js Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full Stack React & Node.js Developer based in Chicago, IL. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Chicago, IL",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Pinnacle Web Group",
+        "description": "Pinnacle Web Group partners with startups and Fortune 500 companies to launch high-impact web products.",
+        "contactEmail": "recruiting@pinnacleweb.com",
+        "contactPhone": "555-195-4848"
+      }
+    },
+    {
+      "id": "76",
+      "title": "UI/UX React Developer",
+      "type": "Remote",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Remote as a UI/UX React Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Remote",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital builds scalable cloud-native web applications for enterprise clients worldwide.",
+        "contactEmail": "careers@apexdigital.io",
+        "contactPhone": "555-147-5011"
+      }
+    },
+    {
+      "id": "77",
+      "title": "Front-End Web Developer",
+      "type": "Remote",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Remote as a Front-End Web Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Remote",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Stratos Cloud",
+        "description": "Stratos Cloud provides distributed infrastructure management tools with sleek user interfaces.",
+        "contactEmail": "jobs@stratoscloud.net",
+        "contactPhone": "555-524-4185"
+      }
+    },
+    {
+      "id": "78",
+      "title": "Lead React Architect",
+      "type": "Full-Time",
+      "description": "Join our team as a Lead React Architect in Brooklyn, NY. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Brooklyn, NY",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-897-7965"
+      }
+    },
+    {
+      "id": "79",
+      "title": "React.js Developer",
+      "type": "Remote",
+      "description": "We are seeking a talented React.js Developer to join our engineering team in Remote. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Remote",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Stratos Cloud",
+        "description": "Stratos Cloud provides distributed infrastructure management tools with sleek user interfaces.",
+        "contactEmail": "jobs@stratoscloud.net",
+        "contactPhone": "555-151-5082"
+      }
+    },
+    {
+      "id": "80",
+      "title": "Lead React Architect",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Seattle, WA as a Lead React Architect and help shape the future of our flagship SaaS platform.",
+      "location": "Seattle, WA",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "BluePeak Innovations",
+        "description": "BluePeak Innovations is an agile software consultancy passionate about open-source technologies.",
+        "contactEmail": "team@bluepeakinnovations.com",
+        "contactPhone": "555-709-6198"
+      }
+    },
+    {
+      "id": "81",
+      "title": "Front-End Web Developer",
+      "type": "Remote",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Remote as a Front-End Web Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Remote",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Pulse Tech Solutions",
+        "description": "Pulse Tech Solutions is dedicated to modernizing legacy systems through clean, modular React front-ends.",
+        "contactEmail": "contact@pulsetech.dev",
+        "contactPhone": "555-950-9976"
+      }
+    },
+    {
+      "id": "82",
+      "title": "React Performance Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a React Performance Engineer based in Salt Lake City, UT. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Salt Lake City, UT",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Stratos Cloud",
+        "description": "Stratos Cloud provides distributed infrastructure management tools with sleek user interfaces.",
+        "contactEmail": "jobs@stratoscloud.net",
+        "contactPhone": "555-365-5050"
+      }
+    },
+    {
+      "id": "83",
+      "title": "React Software Engineer",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a React Software Engineer based in Seattle, WA. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Seattle, WA",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Cascade Software",
+        "description": "Cascade Software delivers custom e-commerce and fintech platforms with a focus on performance and accessibility.",
+        "contactEmail": "hr@cascadesoftware.com",
+        "contactPhone": "555-550-2269"
+      }
+    },
+    {
+      "id": "84",
+      "title": "UI/UX React Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a UI/UX React Developer in Portland, OR. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Portland, OR",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-241-3471"
+      }
+    },
+    {
+      "id": "85",
+      "title": "Junior Front-End Developer (React)",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Junior Front-End Developer (React) based in Raleigh, NC. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Raleigh, NC",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-524-7678"
+      }
+    },
+    {
+      "id": "86",
+      "title": "React & Next.js Developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Boston, MA as a React & Next.js Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Boston, MA",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Pulse Tech Solutions",
+        "description": "Pulse Tech Solutions is dedicated to modernizing legacy systems through clean, modular React front-ends.",
+        "contactEmail": "contact@pulsetech.dev",
+        "contactPhone": "555-498-1320"
+      }
+    },
+    {
+      "id": "87",
+      "title": "Lead React Architect",
+      "type": "Full-Time",
+      "description": "Join our team as a Lead React Architect in Portland, OR. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Portland, OR",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Pulse Tech Solutions",
+        "description": "Pulse Tech Solutions is dedicated to modernizing legacy systems through clean, modular React front-ends.",
+        "contactEmail": "contact@pulsetech.dev",
+        "contactPhone": "555-973-7865"
+      }
+    },
+    {
+      "id": "88",
+      "title": "Lead React Architect",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Austin, TX as a Lead React Architect and help shape the future of our flagship SaaS platform.",
+      "location": "Austin, TX",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital builds scalable cloud-native web applications for enterprise clients worldwide.",
+        "contactEmail": "careers@apexdigital.io",
+        "contactPhone": "555-498-6507"
+      }
+    },
+    {
+      "id": "89",
+      "title": "Senior UI Engineer",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Seattle, WA as a Senior UI Engineer and help shape the future of our flagship SaaS platform.",
+      "location": "Seattle, WA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Silverline Digital",
+        "description": "Silverline Digital creates responsive web and mobile applications for the healthcare and education sectors.",
+        "contactEmail": "careers@silverlinedigital.org",
+        "contactPhone": "555-646-1441"
+      }
+    },
+    {
+      "id": "90",
+      "title": "Front-End Web Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Web Developer in Boston, MA. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Boston, MA",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Pulse Tech Solutions",
+        "description": "Pulse Tech Solutions is dedicated to modernizing legacy systems through clean, modular React front-ends.",
+        "contactEmail": "contact@pulsetech.dev",
+        "contactPhone": "555-238-8564"
+      }
+    },
+    {
+      "id": "91",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Portland, OR as a Senior React Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Portland, OR",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Stratos Cloud",
+        "description": "Stratos Cloud provides distributed infrastructure management tools with sleek user interfaces.",
+        "contactEmail": "jobs@stratoscloud.net",
+        "contactPhone": "555-434-6529"
+      }
+    },
+    {
+      "id": "92",
+      "title": "Full Stack React & Node.js Developer",
+      "type": "Part-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Salt Lake City, UT as a Full Stack React & Node.js Developer and help shape the future of our flagship SaaS platform.",
+      "location": "Salt Lake City, UT",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Cascade Software",
+        "description": "Cascade Software delivers custom e-commerce and fintech platforms with a focus on performance and accessibility.",
+        "contactEmail": "hr@cascadesoftware.com",
+        "contactPhone": "555-954-2341"
+      }
+    },
+    {
+      "id": "93",
+      "title": "Senior React Developer",
+      "type": "Part-Time",
+      "description": "We are seeking a talented Senior React Developer to join our engineering team in Boston, MA. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Boston, MA",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-765-2124"
+      }
+    },
+    {
+      "id": "94",
+      "title": "React Software Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a React Software Engineer in Phoenix, AZ. You will collaborate closely with designers and backend engineers to build responsive, accessible, and high-performing web applications.",
+      "location": "Phoenix, AZ",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital builds scalable cloud-native web applications for enterprise clients worldwide.",
+        "contactEmail": "careers@apexdigital.io",
+        "contactPhone": "555-736-3496"
+      }
+    },
+    {
+      "id": "95",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a React.js Developer based in Miami, FL. We are looking for a motivated developer passionate about clean component architecture, testing, and delivering seamless user experiences.",
+      "location": "Miami, FL",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Vertex Labs",
+        "description": "Vertex Labs specializes in AI-driven analytics platforms and modern front-end architectures.",
+        "contactEmail": "talent@vertexlabs.ai",
+        "contactPhone": "555-576-5198"
+      }
+    },
+    {
+      "id": "96",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React.js Developer to join our engineering team in Raleigh, NC. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Raleigh, NC",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Horizon Interactive",
+        "description": "Horizon Interactive is a boutique product studio crafting intuitive digital experiences.",
+        "contactEmail": "hello@horizoninteractive.co",
+        "contactPhone": "555-418-2771"
+      }
+    },
+    {
+      "id": "97",
+      "title": "React Performance Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React Performance Engineer to join our engineering team in Chicago, IL. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Chicago, IL",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Pulse Tech Solutions",
+        "description": "Pulse Tech Solutions is dedicated to modernizing legacy systems through clean, modular React front-ends.",
+        "contactEmail": "contact@pulsetech.dev",
+        "contactPhone": "555-832-4249"
+      }
+    },
+    {
+      "id": "98",
+      "title": "Front-End Web Developer",
+      "type": "Part-Time",
+      "description": "We are seeking a talented Front-End Web Developer to join our engineering team in Chicago, IL. The ideal candidate will have strong proficiency in HTML, CSS, JavaScript, and modern React patterns including hooks and state management.",
+      "location": "Chicago, IL",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Nebula Systems",
+        "description": "Nebula Systems is a fast-paced SaaS company focused on next-generation developer productivity tools.",
+        "contactEmail": "jobs@nebulasystems.com",
+        "contactPhone": "555-813-5941"
+      }
+    },
+    {
+      "id": "99",
+      "title": "React Software Engineer",
+      "type": "Internship",
+      "description": "Are you passionate about front-end engineering? Join our growing team in Nashville, TN as a React Software Engineer and help shape the future of our flagship SaaS platform.",
+      "location": "Nashville, TN",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital builds scalable cloud-native web applications for enterprise clients worldwide.",
+        "contactEmail": "careers@apexdigital.io",
+        "contactPhone": "555-455-9728"
+      }
+    },
+    {
+      "id": "100",
+      "title": "React & GraphQL Engineer",
+      "type": "Full-Time",
+      "description": "Are you passionate about front-end engineering? Join our growing team in San Francisco, CA as a React & GraphQL Engineer and help shape the future of our flagship SaaS platform.",
+      "location": "San Francisco, CA",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital builds scalable cloud-native web applications for enterprise clients worldwide.",
+        "contactEmail": "careers@apexdigital.io",
+        "contactPhone": "555-969-7882"
+      }
     }
   ]
 }
