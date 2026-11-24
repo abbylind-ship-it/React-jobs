@@ -1400,5 +1400,6 @@
         "contactPhone": "555-969-7882"
       }
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
