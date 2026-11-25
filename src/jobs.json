@@ -1399,6 +1399,20 @@
         "contactEmail": "careers@apexdigital.io",
         "contactPhone": "555-969-7882"
       }
+    },
+    {
+      "id": "wtQ9LEdoscg",
+      "title": "new job in here",
+      "type": "Full-Time",
+      "location": "Malaysia",
+      "description": "kakakkaajaja",
+      "salary": "$125K - 150K",
+      "company": {
+        "name": "jobsytrabajao",
+        "description": "kakkakkak",
+        "contactEmail": "kakakak@okk.com",
+        "contactPhone": "12345"
+      }
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

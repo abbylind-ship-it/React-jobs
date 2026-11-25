@@ -4,6 +4,7 @@ import {GrLocation} from 'react-icons/gr'
 import { Link } from 'react-router'
 import { HiLocationMarker } from 'react-icons/hi'
 import { useNavigate } from 'react-router'
+import { toast } from 'react-toastify'
 
 const JobPage = ({ deleteJob }) => {
   const { id } = useParams()
@@ -18,7 +19,7 @@ const JobPage = ({ deleteJob }) => {
     if (!confirmed ) return
 
     deleteJob(jobId)
-
+    toast.success('Job eliminado correctamente')
     navigate("/jobs")
   }
   
@@ -98,7 +99,7 @@ const JobPage = ({ deleteJob }) => {
                 <div className="bg-white p-6 rounded-lg shadow-md mt-6">
                   <h3 className="text-xl font-bold mb-6">Manage Job</h3>
                   <Link
-                    to={ `/jobs/edit/${job.id} `}
+                    to={ `/edit-job/${job.id} `}
                     className="bg-indigo-500 hover:bg-indigo-600 text-white text-center font-bold py-2 px-4 rounded-full w-full focus:outline-none focus:shadow-outline mt-4 block"
                     >Edit Job
                     </Link>
